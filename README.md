@@ -6,9 +6,9 @@ Fingerprint authentication has become a staple in securing access to personal de
 ## Hardware
 *Use main.h to initiate the fingerprint module.
 
-# Models
-*Use model_cpp.cpp in a C++11 environment
+## Models
+*Use model_cpp.cpp in a C++11 environment.
 
-*Use model.py in a Python 3.9 environment
+*Use model.py in a Python 3.9 environment.
 
-*Use negative_sample_rate.py in a Python 3.9 environment
+*Use negative_sample_rate.py in a Python 3.9 environment.
